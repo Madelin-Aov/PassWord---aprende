@@ -2,6 +2,12 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url(img/writing-displaying-text-password-cracking-4004640.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 250px;
+
+
 
 }
 
@@ -50,4 +56,22 @@ ul li:hover a {
 
 .sidebar ul a i {
     margin-right: 16px;
+}
+
+.btn {
+    background-color: #042331 !important;
+
+}
+
+footer {
+    display: block;
+    justify-content: space-around;
+    color: white;
+    background-color: #1d1a1a;
+    position: fixed;
+    bottom: 0;
+    list-style: none;
+    margin-top: 100px;
+    width: 100%;
+
 }
